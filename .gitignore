@@ -15,3 +15,5 @@
 /spec/reports/
 /tmp/
 mkmf.log
+vendor
+.idea
