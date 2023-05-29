@@ -4,6 +4,9 @@
 [![Gem Version](https://badge.fury.io/rb/bookmark_system.svg)](http://badge.fury.io/rb/bookmark_system)
 [![Code Climate](https://codeclimate.com/github/pmviva/bookmark_system/badges/gpa.svg)](https://codeclimate.com/github/pmviva/bookmark_system)
 
+**This is restored version of a Rails 7 fork of deleted smapira/bookmark_system**
+
+
 An active record bookmark system developed using ruby on rails applying domain driven design and test driven development principles.
 
 For rails 4 support use branch v0.0.7-stable.
